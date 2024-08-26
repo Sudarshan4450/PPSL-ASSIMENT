@@ -20,11 +20,11 @@ int main() {
 car c1;
 car c2;
 // Set properties for student1
-c1.brand = "thar";
+c1.brand = "THAR";
 c1.model ="x4";
 c1.year = 1999;
 // Set properties for student2
-c2.brand = "ODI";
+c2.brand = "AUDI";
 c2.model = "a5";
 c2.year= 2016;
 // Display information for each student
@@ -34,3 +34,4 @@ cout << endl; // For better readability
 cout << "c2 Information:" << endl;
 c2.displayInfo();
 return 0;
+}
