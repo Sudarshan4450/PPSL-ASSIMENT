@@ -24,7 +24,7 @@ c1.brand = "thar";
 c1.model ="x4";
 c1.year = 1999;
 // Set properties for student2
-c2.brand = "oooo";
+c2.brand = "ODI";
 c2.model = "a5";
 c2.year= 2016;
 // Display information for each student
